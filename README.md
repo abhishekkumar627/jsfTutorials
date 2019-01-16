@@ -1,4 +1,4 @@
-# jsfTutorials
+# JSF Tutorials
 
 Version Used : 2.1.7
 
@@ -7,6 +7,7 @@ Version Used : 2.1.7
 3. PageNavigation
 4. ManagedBean
 5. jsfFaceletTemplate
+6. jsfFaceletParam
 
 URLS
 
@@ -29,5 +30,9 @@ http://localhost:8080/ManagedBeansJsf/
 jsfFaceletTemplate
 ------------------
 http://localhost:8080/jsfFaceletTemplate/
+
+jsfFaceletParam
+------------------
+http://localhost:8080/jsfFaceletParam/
 
 
