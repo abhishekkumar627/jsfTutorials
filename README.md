@@ -1,5 +1,7 @@
 # jsfTutorials
 
+Version Used : 2.1.7
+
 1. Basic JSF Tutorials
 2. Basic Tags
 3. PageNavigation
