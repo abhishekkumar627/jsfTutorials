@@ -6,6 +6,7 @@ Version Used : 2.1.7
 2. Basic Tags
 3. PageNavigation
 4. ManagedBean
+5. jsfFaceletTemplate
 
 URLS
 
@@ -25,5 +26,8 @@ PageNavigation
 ---------------
 http://localhost:8080/PageNavigation/
 
+jsfFaceletTemplate
+------------------
+http://localhost:8081/jsfFaceletTemplate/
 
 
