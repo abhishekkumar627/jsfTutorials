@@ -35,4 +35,8 @@ jsfFaceletParam
 ------------------
 http://localhost:8080/jsfFaceletParam/
 
+jsfFaceletCustomTag
+------------------
+http://localhost:8080/jsfFaceletCustomTags/
+
 
