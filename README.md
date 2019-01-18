@@ -39,4 +39,8 @@ jsfFaceletCustomTag
 ------------------
 http://localhost:8080/jsfFaceletCustomTags/
 
+jsfFaceletRemove
+------------------
+http://localhost:8080/jsfFaceletRemove/
+
 
