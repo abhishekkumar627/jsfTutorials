@@ -8,6 +8,9 @@ Version Used : 2.1.7
 4. ManagedBean
 5. jsfFaceletTemplate
 6. jsfFaceletParam
+7. jsfFaceletCustomTag
+8. jsfFaceletRemove
+9. jsfConverter
 
 URLS
 
