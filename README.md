@@ -43,4 +43,9 @@ jsfFaceletRemove
 ------------------
 http://localhost:8080/jsfFaceletRemove/
 
+jsfConverter
+-------------
+http://localhost:8080/jsfConverter/convertNumber.jsf
+http://localhost:8080/jsfConverter/convertDateTime.jsf
+http://localhost:8080/jsfConverter/customConverter.jsf
 
